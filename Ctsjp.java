@@ -1,4 +1,4 @@
-class Ctsjp{
+public class Ctsjp{
    	public static void main(String [] args)
 		{ 
 

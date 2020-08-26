@@ -1,4 +1,4 @@
-class shubh{
+public class shubh{
    	public static void main(String [] args){ 
 
 	 	System.out.println("New java file by shubham");
