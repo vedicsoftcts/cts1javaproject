@@ -1,4 +1,4 @@
-public class Ctsjplatif{
+class shubh{
    	public static void main(String [] args){ 
 
 	 	System.out.println("New java file by shubham");
